@@ -1,4 +1,5 @@
 # JavaScript Input Field
+![](assets/InputFieldScreenshot.PNG)
 ## Context and Description
 An input field takes whatever you type and displays it in another box as you type. I did this project to practice JavaScript input fields and event listeners. This was my first JavaScript project.
 ## How to run
